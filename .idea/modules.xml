@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sboot.iml" filepath="$PROJECT_DIR$/sboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sboot-admin/sboot-admin.iml" filepath="$PROJECT_DIR$/sboot-admin/sboot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sboot-common/sboot-common.iml" filepath="$PROJECT_DIR$/sboot-common/sboot-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sboot-manage/sboot-manage.iml" filepath="$PROJECT_DIR$/sboot-manage/sboot-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sboot-web/sboot-web.iml" filepath="$PROJECT_DIR$/sboot-web/sboot-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbootmain/sbootmain.iml" filepath="$PROJECT_DIR$/sbootmain/sbootmain.iml" />
+    </modules>
+  </component>
+</project>

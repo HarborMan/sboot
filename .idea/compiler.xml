@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sboot-admin" />
+        <module name="sboot-common" />
+        <module name="sboot-manage" />
+        <module name="sboot-web" />
+        <module name="sbootmain" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sboot" target="1.8" />
+      <module name="sboot-admin" target="1.8" />
+      <module name="sboot-common" target="1.8" />
+      <module name="sboot-gen" target="1.8" />
+      <module name="sboot-manage" target="1.8" />
+      <module name="sboot-web" target="1.8" />
+      <module name="sbootmain" target="1.8" />
+      <module name="test" target="1.7" />
+      <module name="web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
